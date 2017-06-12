@@ -2,7 +2,7 @@ function varargout = PBMTool(varargin)
 % PBMTOOL MATLAB code for PBMTool.fig
 %      PBMTOOL, by itself, creates a new PBMTOOL or raises the existing
 %      singleton*.
-%
+%Test
 %      H = PBMTOOL returns the handle to a new PBMTOOL or the handle to
 %      the existing singleton*.
 %
